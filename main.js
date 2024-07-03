@@ -1,4 +1,4 @@
-// main.js
+// main.js calc.
 function calculateInterest(principal, rate, time) {
     return principal * rate * time;
 }
